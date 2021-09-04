@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">Master of Physics graduate turned Front End Developer</h3>
 
-- 🌱 I’m currently learning **React, TypeScript, TailwindCSS**
+- 🌱 I’m currently learning **React, TypeScript and TailwindCSS**
 
 - 📝 I regularly write articles on [https://tomy.hashnode.dev/](https://tomy.hashnode.dev/)
 

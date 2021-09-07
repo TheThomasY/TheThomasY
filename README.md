@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript and TailwindCSS**
 
-- 📝 I regularly write articles on [https://tomy.hashnode.dev/](https://tomy.hashnode.dev/)
+- 📝 I regularly write articles on [https://tomy.hashnode.dev/](https://tomy.hashnode.dev/) and [https://dev.to/thetomy](https://dev.to/thetomy).
 
 - 📫 How to reach me **tomyoungdev@gmail.com**
 

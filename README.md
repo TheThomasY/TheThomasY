@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">Master of Physics graduate turned Front End Developer</h3>
 
-- 🌱 I’m currently learning **React, TypeScript and TailwindCSS**
+- 🌱 I’m currently learning **React, TypeScript and TailwindCSS**.
 
 - 📝 I regularly write articles at [https://dev.to/thetomy](https://dev.to/thetomy).
 
-- 📫 Get in contact with me via: **tomyoungdev@gmail.com**
+- 📫 Get in contact with me via: **tomyoungdev@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

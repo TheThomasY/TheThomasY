@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles at [https://dev.to/thetomy](https://dev.to/thetomy).
 
-- 📫 How to reach me **tomyoungdev@gmail.com**
+- 📫 Get in contact with me via: **tomyoungdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

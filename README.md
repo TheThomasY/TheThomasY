@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">React Front End Developer</h3>
 
+<br>
+<br>
+<br>
+
 - 🌱 I’m currently learning **Next.js and Typescript**
 
 - 📝 I regularly write articles on [https://tomy.hashnode.dev/](https://tomy.hashnode.dev/)

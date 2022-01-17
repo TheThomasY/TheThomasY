@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">React Front End Developer</h3>
+<h1>Hi 👋, I'm Tom</h1>
+<h3>React Front End Developer</h3>
 
 <br>
-<br>
+
 
 - 🌱 I’m currently learning **Next.js and Typescript**
 

@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Tom</h1>
-<h3>React Front End Developer</h3>
+<h3>I'm a Front End Developer, I work mainly with React but I am always looking to improve my knowledge</h3>
 
 <br>
 

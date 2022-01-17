@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next.js and Typescript**
 
-- 📝 I regularly write articles on [https://tomy.hashnode.dev/](https://tomy.hashnode.dev/)
-
 - 📫 How to reach me **tomyoungdev@gmail.com**
 
 <br>

@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Tom</h1>
-<h3>I'm a Front End Developer. My preferred technology is React but I'm always looking to grow and improve my skills in different areas.</h3>
+<h3>I'm a Front End Developer. I work mainly with React, but I'm always looking to grow and improve my skills in different areas.</h3>
 
 <br>
 

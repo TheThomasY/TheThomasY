@@ -9,6 +9,16 @@
 
 <br>
 
+## 🎨 My Portfolio
+
+Feel free to take a look at [my portfolio:](https://tom-young-portfolio.vercel.app/ 'Live Site').
+
+<p float="left">
+  <img src="https://github.com/TheThomasY/portfolio/blob/main/screenshots/screenshot-GIF-desktop.gif">
+</p>
+
+<br>
+
 ## 👋 Connect with me
 
 <br>

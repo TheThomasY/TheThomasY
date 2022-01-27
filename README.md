@@ -1,11 +1,10 @@
 <h1>Hi 👋, I'm Tom</h1>
 <h3>I'm a Front End Developer. I work mainly with React, but I'm always looking to grow and improve my skills in different areas.</h3>
 
-<br>
 
 - 🌱 I’m currently learning **Next.js and Typescript**
 
-- 📫 How to reach me **tomyoungdev@gmail.com**
+- 📫 Feel free to email me if you want to get in touch: **tomyoungdev@gmail.com**
 
 <br>
 

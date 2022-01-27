@@ -11,7 +11,7 @@
 
 ## 🎨 My Portfolio
 
-Feel free to take a look at [my portfolio:](https://tom-young-portfolio.vercel.app/ 'Live Site').
+To have a look at some of my work, feel free to check out [my portfolio:](https://tom-young-portfolio.vercel.app/ 'Live Site')
 
 <p float="left">
   <img src="https://github.com/TheThomasY/portfolio/blob/main/screenshots/screenshot-GIF-desktop.gif">

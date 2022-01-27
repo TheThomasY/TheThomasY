@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js and Typescript**
 
-- 📫 Feel free to email me if you want to get in touch: **tomyoungdev@gmail.com**
+- 📫 Drop me an email if you want to get in touch: **tomyoungdev@gmail.com**
 
 <br>
 

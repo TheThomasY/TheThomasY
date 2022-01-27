@@ -42,8 +42,10 @@ To have a look at some of my work, feel free to check out [my portfolio:](https:
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thethomasy&show_icons=true&theme=dark&locale=en" alt="thethomasy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thethomasy&theme=dark" alt="thethomasy" /></p>
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thethomasy&show_icons=true&theme=dark&locale=en" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Contribution Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=thethomasy&theme=dark" width="45%">
+</p>
 
 <br>

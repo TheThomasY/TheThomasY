@@ -2,7 +2,7 @@
 <h3>I'm a Front End Developer. I work mainly with React, but I'm always looking to grow and improve my skills in different areas. I am available for work in and around London, or remotely.</h3>
 <br>
 
-- 🌱 I’m currently learning **Next.js and Typescript**
+- 🌱 I’m currently learning **Next.js, Strapi and Typescript**
 
 - 📫 Drop me an email if you want to get in touch: **tomyoungdev@gmail.com** 
 

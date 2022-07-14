@@ -2,7 +2,7 @@
 <h3>I'm a Front End Developer working in Southampton</h3>
 <br>
 
-- 🌱 I’m currently learning **Next.js, Strapi and Typescript**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 Drop me an email if you want to get in touch: **tomyoungdev@gmail.com** 
 

@@ -20,7 +20,6 @@ To have a look at some of my work, feel free to check out [my portfolio:](https:
 
 <br>
 <p align="left">
-<a href="https://twitter.com/thethomasyoung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thethomasyoung" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tom-young5555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom-young5555" height="30" width="40" /></a>
 </p>
 

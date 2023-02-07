@@ -6,7 +6,7 @@
 
 <br>
 
-## 🎨 My Portfolio
+<!-- ## 🎨 My Portfolio
 
 To have a look at some of my work, feel free to check out [my portfolio:](https://tom-young-portfolio.vercel.app/ 'Live Site')
 
@@ -14,7 +14,7 @@ To have a look at some of my work, feel free to check out [my portfolio:](https:
   <img src="https://github.com/TheThomasY/portfolio/blob/main/screenshots/screenshot-GIF-desktop.gif">
 </p>
 
-<br>
+<br> -->
 
 ## 👋 Connect with me
 
